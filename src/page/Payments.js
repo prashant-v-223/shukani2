@@ -26,7 +26,7 @@ const Payments = () => {
             clearInterval(timer);
         };
     }, [time]);
-    let upiid = "MAB0450400A0145206@Yesbank"; 
+    let upiid = "59790401@ubin"; 
     useEffect(() => {
         switch (activeTab) {
             case 4:
